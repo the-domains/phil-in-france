@@ -1,0 +1,28 @@
+name: Phil In France
+favicon: null
+layout_spectrum: 0.4234719783999026
+typography_spectrum: 0.17479609022848308
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.045317067531868815
+  lightness: 0.8767679478041828
+  saturation: 0.9523639858234674
+  rhythmicContrast: 0.756378912134096
+purpose: []
